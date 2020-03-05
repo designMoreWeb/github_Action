@@ -1,6 +1,0 @@
-name: Testing
-on: [push]
-
-jobs:
-  build-and-run:
-  
